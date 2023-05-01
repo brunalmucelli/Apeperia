@@ -7,7 +7,7 @@
 </p>
 
 <h2>Descrição do projeto</h2>
-<p align="justify">Projeto do site de uma empresa chamada Apeperia que densenvolve aplicativos destinados a pequenas e médias empresas.
+<p align="justify">Projeto do site de uma empresa chamada Apeperia que desenvolve aplicativos destinados a pequenas e médias empresas.
 O objetivo principal é apresentar a empresa aos usuários fornencendo diversas informações, como : sobre, planos, contatos e endereço.
 Além disso, o site deve funcionar em diversos dispositivos, por isso, deve contar com os recursos da responsividade.</p>
 
@@ -24,27 +24,29 @@ Além disso, o site deve funcionar em diversos dispositivos, por isso, deve cont
 <ul>
   <li>HTML
     <ul>
-      <li>Estrutura HTML5</li>
-      <li>Principais tags</li>
-      <li>Navegação entre páginas </li>
-      <li>Criação de formulários mais complexos</li>
-      <li>Utilização de vídeos, mapas e fontes externas</li>
+      <li>Utilização do EMMET</li>
+      <li>Aprendizado de mobile-first</li>
+      <li>Aprendizado da importância de escrever um código semântico</li>
     </ul>
   </li>
   
   <li>CSS
     <ul>
-      <li>Alinhamento de textos e imagens</li>
+      <li>Declaração de variáveis</li>
       <li>Alteração de cores de fundo e texto</li>
-      <li>CSS inline, interno e externo</li>
-      <li>Manipulação das propriedades height, width, padding e margin</li>
-      <li>Comportamento inline e block</li>
-      <li>Utilização reset css</li>
+      <li>Utilização de unidades relativas REM e EM</li>
+      <li>Utilização das unidades de viewport</li>
+      <li>Estilização para diversos dispositivos com media queries</li>
     </ul>
   </li>
  </ul>
  
  <h2>Responsividade</h2>
+ <p>Essa aplicação web foi desenvolvida com responsividade, como dito anteriormente e, portanto, pode ser aplicada para diversos tamanhos de tela. A imagem abaixo é um desses exemplos.</p>
+ <div align="center">
+ <img src="https://github.com/brunalmucelli/Apeperia/blob/a5207b85056a9720da402c8c6ae206baf3cd2309/img/Apeperia5.png" width="50%">
+ </div>
+ 
  
 <h2>Observações</h2>
 <p>Esse projeto foi desenvolvido utilizando as aulas da Alura como base e "Apeperia" é um nome fantasia.</p>
